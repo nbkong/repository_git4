@@ -5,4 +5,8 @@ public class HelloWorld {
         System.out.println("-----git-----");
         System.out.println("-----git-----");
     }
+    public void test(){
+        int a = 0;
+        System.out.println(a);
+    }
 }
